@@ -5,7 +5,7 @@ const menu = [
     category: 'breakfast',
     price: 15.99,
     img: './images/item-1.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Indulge in fluffy perfection with our irresistible Buttermilk Pancakes. Delight your taste buds with a classic breakfast favorite, expertly crafted to melt in your mouth. `,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const menu = [
     category: 'lunch',
     price: 13.99,
     img: './images/item-2.jpeg',
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Get ready for a taste sensation with Diner Double. Double the juicy patties, double the cheese, and double the satisfaction. Indulge in a mouthwatering burger experience that will leave you craving for seconds.`,
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const menu = [
     category: 'shakes',
     price: 6.99,
     img: './images/item-3.jpeg',
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    desc: `Unleash your taste buds with the monstrous indulgence of our Godzilla Milkshake. Brace yourself for a towering blend of creamy goodness, erupting with flavor and topped with delicious decadence. Conquer your dessert cravings with this colossal shake experience.`,
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const menu = [
     category: 'breakfast',
     price: 20.99,
     img: './images/item-4.jpeg',
-    desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+    desc: `Discover the pure taste of freshness with Country Delight. Savor the goodness of farm-fresh milk, delivered directly to your doorstep. Experience dairy products that are as authentic and delightful as nature intended.`,
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const menu = [
     category: 'lunch',
     price: 22.99,
     img: './images/item-5.jpeg',
-    desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+    desc: `Prepare for an egg-citing adventure with Egg Attack. Experience the ultimate breakfast delight as our perfectly cooked eggs unleash a burst of flavor. Get ready to conquer your morning cravings with this egg-centric sensation.`,
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const menu = [
     category: 'shakes',
     price: 18.99,
     img: './images/item-6.jpeg',
-    desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+    desc: `Embark on a dreamy delight with Oreo Dream. Immerse yourself in a world of chocolatey bliss as the classic Oreo cookie takes center stage. Indulge in a heavenly fusion of creamy perfection and delightful crunch. Let Oreo Dream transport you to cookie paradise.`,
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const menu = [
     category: 'breakfast',
     price: 8.99,
     img: './images/item-7.jpeg',
-    desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+    desc: `Indulge in savory bliss with Bacon Overflow. Dive into a crispy, smoky sensation that will leave your taste buds craving more. Experience the irresistible allure of perfectly cooked bacon, overflowing with flavor.`,
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const menu = [
     category: 'lunch',
     price: 12.99,
     img: './images/item-8.jpeg',
-    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    desc: `Experience the timeless taste of nostalgia with American Classic. Indulge in a culinary journey that pays homage to the iconic flavors of American cuisine. Savor the perfect blend of tradition and innovation, crafted to satisfy your cravings with every bite.`,
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const menu = [
     category: 'shakes',
     price: 16.99,
     img: './images/item-9.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: `Find your ultimate Quarantine Buddy. Discover a companion that keeps you entertained, connected, and informed during these challenging times. Embrace the perfect partner to share laughter, explore new hobbies, and make the most of your quarantine experience.`,
   },
 ];
 export default menu;
